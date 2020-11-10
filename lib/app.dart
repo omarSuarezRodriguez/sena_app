@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-// Login
+// Logins
 import 'src/login/login.dart';
 
 // Admin side imports

@@ -9,6 +9,6 @@ import 'app.dart'; // Original
 void main() => runApp(MyApp());
 
 
-// Pruebass
+// Prueba
 // void main() => runApp(MyAppPrueba());
  
