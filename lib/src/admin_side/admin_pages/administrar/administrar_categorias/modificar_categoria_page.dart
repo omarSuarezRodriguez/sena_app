@@ -272,7 +272,7 @@ class _ModificarCategoriaPageState extends State<ModificarCategoriaPage> {
   }
 
 
-  // Actualizar info productos de categoría
+  // Actualizar info productos de categoria
   // Actualizar Productos de la categoría seleccionada para modificar
   _actualizarProductosDeCategoria(String categoria, String nuevoNombre) {
 
