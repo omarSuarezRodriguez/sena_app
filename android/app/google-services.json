@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "197550677506",
+    "firebase_url": "https://sena-app-1f478.firebaseio.com",
+    "project_id": "sena-app-1f478",
+    "storage_bucket": "sena-app-1f478.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197550677506:android:e9b7c65f2e2a3f0cc1d11b",
+        "android_client_info": {
+          "package_name": "com.example.sena_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197550677506-k860s6l8jpdala848en8rcl510disb74.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sena_app",
+            "certificate_hash": "1bfc1f514f109aebae99c36907a673e0ea9f9adb"
+          }
+        },
+        {
+          "client_id": "197550677506-rm70dvq5guq4u4sfj7t1qvppicttosn3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUiQHfJwV2pVK1KX-aqENvEno8Ls258PY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197550677506-rm70dvq5guq4u4sfj7t1qvppicttosn3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
