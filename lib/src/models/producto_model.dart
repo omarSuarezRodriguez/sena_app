@@ -9,6 +9,7 @@ class ProductoModel {
   String categoria;
   bool disponible;
   String imagenUrl;
+  String imagenThumbnailUrl;
 
   // Referencia Documento
   DocumentReference reference;
@@ -21,6 +22,7 @@ class ProductoModel {
     this.categoria,
     this.disponible = true,
     this.imagenUrl,
+    this.imagenThumbnailUrl,
   });
 
 
@@ -32,6 +34,7 @@ class ProductoModel {
       'categoria' : categoria,
       'disponible' : disponible,
       'imagenUrl' : imagenUrl,
+      'imagenThumbnailUrl' : imagenThumbnailUrl,
     };
   }
 
@@ -47,6 +50,7 @@ class ProductoModel {
     categoria = map['categoria'];
     disponible = map['disponible'];
     imagenUrl = map ['imagenUrl'];
+    imagenThumbnailUrl = map ['imagenThumbnailUrl'];
   }
 
 
